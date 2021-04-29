@@ -1,5 +1,5 @@
-# cpp-workshop-resources
-C++ Workshop Resources Conducted by the Intellects Forum.
+# EZ-Cpp
+An easy to learn c++ resource.
 
 ## Table Of contents:
 1. [Introduction](/01-intro.md) 

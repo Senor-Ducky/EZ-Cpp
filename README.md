@@ -1,6 +1,9 @@
 # EZ-Cpp
 An easy to learn c++ resource.
 
+## How to Contribute
+Follow the regular code of conduct, check and proofread all the code befor commiting to this repo, be friendly, Good Luck !!!
+
 ## Table Of contents:
 1. [Introduction](/01-intro.md) 
 2. [installation](/02-installation.md)
